@@ -8,13 +8,7 @@ According to Rajeev Menon, President of Marriott International's Asia Pacific op
 ## Problem Statement
 A Hospitality Chain  lacks an in-house data analytics team and has decided to hire a 3rd party service provider to analyze their historical data and provide insights. As a data analyst, your task is to create the metrics according to the provided metric list, develop a dashboard based on the mock-up provided by stakeholders, and derive relevant insights from the data.
 
-## Files
-- **Final_Dashboard.pbix**: PowerBI dashboard file containing visualizations and insights.
-- **data**: Sample dataset provided  analysis.
 
-## Metrics
-The dashboard covers the following key performance indicators (KPIs):
-- KPI_for_insights.xlsx
 
 ## Insights
 In addition to the metrics provided in the mock-up dashboard, the following insights have been derived:
@@ -27,6 +21,13 @@ In addition to the metrics provided in the mock-up dashboard, the following insi
 - tooltip example:
 ![revpar](https://github.com/Samueal07/Hospitality_Chain_Problem_Statement/assets/99087302/659a9b74-2800-421e-9fde-2112487cc93e)
 
+## Files
+- **Final_Dashboard.pbix**: PowerBI dashboard file containing visualizations and insights.
+- **data**: Sample dataset provided  analysis.
+
+## Metrics
+The dashboard covers the following key performance indicators (KPIs):
+- KPI_for_insights.xlsx
   
 ## Dashboard Features
 - Interactive visualizations providing insights into key areas of importance.

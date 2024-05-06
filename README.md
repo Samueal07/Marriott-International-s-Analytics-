@@ -1,4 +1,4 @@
-# Hospitality Chain Dashboard
+# Marriott International’s Analytics  Dashboard
 
 ## Importance
 ![image](https://github.com/Samueal07/Hospitality_Chain_Problem_Statement/assets/99087302/61ceed5f-e407-4842-9ca1-4dd3509e322b)
